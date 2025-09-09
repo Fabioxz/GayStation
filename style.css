@@ -47,6 +47,7 @@ ul{
     display: flex;
     padding-top: 10px;
     padding-left: 5px;
+    font-family: "Play", sans-serif;
 }
 
 main{
@@ -174,4 +175,47 @@ h2, h3, p, a{
 #comprar{
     color: #192029;
     padding-left: 5px;   
+}
+
+#cont{
+    display: flex;
+    flex-direction: space-between;
+    text-align: center;
+}
+
+#hist{
+    width: 700px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#proscon{
+    width: 700px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#but{
+    display: flex;
+    justify-content: center;
+}
+
+#text{
+    background-color: #6d7077;
+    height: 100px;
+    width: 150px;
+    border-radius: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bot{
+    color: #192029;
+}
+
+#miya{
+    display:flex;
+    justify-content: end;
+    align-items: end;
 }
