@@ -181,6 +181,7 @@ h2, h3, p, a{
     display: flex;
     flex-direction: space-between;
     text-align: center;
+    
 }
 
 #hist{
@@ -212,10 +213,4 @@ h2, h3, p, a{
 
 #bot{
     color: #192029;
-}
-
-#miya{
-    display:flex;
-    justify-content: end;
-    align-items: end;
 }
